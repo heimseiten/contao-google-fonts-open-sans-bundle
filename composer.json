@@ -3,9 +3,7 @@
     "description": "Google Fonts - Open Sans",
     "keywords": [
         "contao",
-        "bundle",
-        "tag 3",
-        "tag 4"
+        "Fonts"
     ],
     "type": "contao-bundle",
     "license": "GPL-3.0-or-later",
@@ -47,6 +45,5 @@
     },
     "extra": {
         "contao-manager-plugin": "Heimseiten\\ContaoGoogleFontsOpenSansBundle\\ContaoManager\\Plugin"
-    },
-    "version": "1.0.0"
+    }
 }
