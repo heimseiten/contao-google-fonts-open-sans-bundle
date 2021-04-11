@@ -2,8 +2,8 @@
     "name": "heimseiten/contao-google-fonts-open-sans-bundle",
     "description": "Google Fonts - Open Sans",
     "keywords": [
-        "Google Fonts",
-        "Schriftart"
+        "Schriftart",
+        "Webfont"
     ],
     "type": "contao-bundle",
     "license": "GPL-3.0-or-later",
@@ -30,10 +30,7 @@
             "src/Resources/contao"
         ],
         "exclude-from-classmap": [
-            "src/Resources/contao/config",
-            "src/Resources/contao/dca",
-            "src/Resources/contao/languages",
-            "src/Resources/contao/templates"
+            "src/Resources/contao/config"
         ]
     },
     "extra": {
