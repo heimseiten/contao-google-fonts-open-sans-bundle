@@ -25,13 +25,7 @@
     "autoload": {
         "psr-4": {
             "Heimseiten\\ContaoGoogleFontsOpenSansBundle\\": "src/"
-        },
-        "classmap": [
-            "src/Resources/contao"
-        ],
-        "exclude-from-classmap": [
-            "src/Resources/contao/config"
-        ]
+        }
     },
     "extra": {
         "contao-manager-plugin": "Heimseiten\\ContaoGoogleFontsOpenSansBundle\\ContaoManager\\Plugin"
